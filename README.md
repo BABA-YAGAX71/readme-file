@@ -4,7 +4,7 @@ shahriar rashid rahi<br/>
 <!--markdown tutorial-->
 # <b>Italic text</b>
 
-<i>this is italic text</i>
+
 
 `this is inline`  
 `<h1>it is bangladesh</h2>`  
